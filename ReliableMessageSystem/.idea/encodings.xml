@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/MessageConsumer/src/main/java/com/zjp/consumer/mapper/impl/N1RecordMapperImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MessageConsumer/src/main/java/com/zjp/consumer/mapper/impl/N2RecordMapperImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MessageConsumer/src/main/java/com/zjp/consumer/service/N1RecordService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MessageConsumer/src/main/java/com/zjp/consumer/service/N2RecordService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MessageConsumer/src/main/java/com/zjp/consumer/service/impl/N1RecordServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MessageConsumer/src/main/java/com/zjp/consumer/service/impl/N2RecordServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MessageConsumer/src/main/resources/mapper/N1RecordMapper.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MessageConsumer/src/main/resources/mapper/N2RecordMapper.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MessageProducer/src/main/java/com/zjp/producer/mapper/QMessageMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MessageProducer/src/main/java/com/zjp/producer/mapper/impl/QMessageMapperImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MessageProducer/src/main/java/com/zjp/producer/service/QMessageService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MessageProducer/src/main/java/com/zjp/producer/service/impl/QMessageServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MessageProducer/src/main/resources/mapper/QMessageMapper.xml" charset="UTF-8" />
+  </component>
+</project>
